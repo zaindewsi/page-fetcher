@@ -4,4 +4,5 @@ A command line node app called fetcher.js which should take a URL as a command-l
 
 Example:
 > node fetcher.js http://www.example.edu/ ./index.html
+> 
 > Downloaded and saved 3261 bytes to ./index.html
